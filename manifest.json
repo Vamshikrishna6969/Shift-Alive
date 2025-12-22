@@ -1,20 +1,22 @@
 {
   "name": "Shift Alive",
   "short_name": "Shift Alive",
-  "start_url": ".",
+  "start_url": "/Shift-Alive/",
+  "scope": "/Shift-Alive/",
   "display": "standalone",
   "background_color": "#0b1020",
   "theme_color": "#0b1020",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/Shift-Alive/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "/Shift-Alive/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 }
+
